@@ -1,0 +1,11 @@
+.column{
+  float:right;
+  width:30%;
+  padding:6px;
+  border:4px;
+  margin:5px;
+  background-color:lightgrey;
+}
+.column p em {
+  color:red;
+}
